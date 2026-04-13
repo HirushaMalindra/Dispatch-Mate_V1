@@ -1,5 +1,6 @@
 # Dispatch-Mate_V1
 Course Material Collection System for Open University of Sri Lanka
+( JAVA Console base application )
 
 # Student
 Username : - student1 , student2 , student3  
