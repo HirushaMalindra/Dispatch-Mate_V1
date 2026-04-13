@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class AdminPortal {
 
     private Scanner  scanner;
-    private String[] currentAdmin; // {username, password, name}
+    private String[] currentAdmin; 
 
     public AdminPortal(Scanner scanner, String[] currentAdmin) {
         this.scanner      = scanner;
