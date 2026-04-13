@@ -8,8 +8,8 @@ public class Book {
     private String faculty;
     private String department;
     private int level;
-    private int    totalCopies;
-    private int    availableCopies;
+    private int totalCopies;
+    private int availableCopies;
 
 
     public Book(String bookId, String title, String faculty ,String department, int level, int totalCopies) {
@@ -38,8 +38,8 @@ public class Book {
     public String getFaculty()         { return faculty; }
     public String getDepartment()      { return department; }
     public int getLevel()              { return level; }
-    public int    getTotalCopies()     { return totalCopies; }
-    public int    getAvailableCopies() { return availableCopies; }
+    public int getTotalCopies()        { return totalCopies; }
+    public int getAvailableCopies()    { return availableCopies; }
 
 
     public void setTotalCopies(int totalCopies)         { this.totalCopies     = totalCopies; }
