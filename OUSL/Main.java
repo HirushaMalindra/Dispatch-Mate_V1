@@ -49,7 +49,7 @@ public class Main {
     static void printWelcomeBanner() {
         System.out.println();
         System.out.println(CYAN + "╔════════════════════════════════════════════════════╗");
-        System.out.println("║" + YELLOW + "              OUSL DISPATCH MATE v1.0               " + CYAN + "║");
+        System.out.println("║" + YELLOW + "              OUSL DISPATCH MATE                   " + CYAN + "║");
         System.out.println("║" + RESET + "         Course Material Collection System          " + CYAN + "║");
         System.out.println("║" + RESET + "            Open University of Sri Lanka            " + CYAN + "║");
         System.out.println("╚════════════════════════════════════════════════════╝" + RESET);
